@@ -22,6 +22,13 @@ const support = {
       icon: icons.ChromeOutlined
     },
     {
+      id: 'test-page',
+      title: 'Test Page',
+      type: 'item',
+      url: '/test-page',
+      icon: icons.ChromeOutlined
+    },
+    {
       id: 'documentation',
       title: 'Documentation',
       type: 'item',

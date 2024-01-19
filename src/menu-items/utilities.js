@@ -53,6 +53,14 @@ const utilities = {
       url: '/icons/ant',
       icon: icons.AntDesignOutlined,
       breadcrumbs: false
+    },
+    {
+      id: 'test',
+      title: 'TestPage',
+      type: 'item',
+      url: '/test-page',
+      icon: icons.AntDesignOutlined,
+      breadcrumbs: false
     }
   ]
 };
